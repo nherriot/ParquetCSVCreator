@@ -26,5 +26,5 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: ParquetConverter-exe
-        path: dist/ParquetConverter.exe
+        name: ParquetCSVCreator-exe
+        path: dist/ParquetCSVCreator.exe
